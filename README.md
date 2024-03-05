@@ -14,7 +14,7 @@ Este é um sistema de login desenvolvido em JavaScript , Nodejs e express, onde 
 3. Instale as dependências necessárias: `npm install` ou `yarn install`
 4. Inicie a aplicação: `npm start` ou `yarn start`
 
-5. ## Uso
+## Uso
 
 1. Após iniciar a aplicação, acesse a página inicial.
 2. Insira suas credenciais de usuário (nome de usuário e senha) nos campos correspondentes.
